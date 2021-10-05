@@ -1,16 +1,15 @@
-### Hi there 👋
+- I am an HPC Applications Engineer at <span><strong>NEXT</strong>SILICON</span>
+- Cat Dad
+- Nature Lover
+- C++ Developer
+- Educator
 
-<!--
-**willkill07/willkill07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Statistics](https://github-readme-stats.vercel.app/api?username=willkill07&count_private=true&title_color=5700FF&include_all_commits=true&disable_animations=true&show_owner=false)
 
-Here are some ideas to get you started:
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=willkill07)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willkill07&layout=compact&show_icons=true&langs_count=8&count_private=true&title_color=5700FF&border-radius=0)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=willkill07&color=333&bg_color=EEE&point=000000&line=00ffb6&area=true&area_color=00ffb6)
+
+<em>He/Him/His</em>
