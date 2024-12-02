@@ -1,3 +1,4 @@
+- Senior Software Engineer (IC5) at [NVIDIA](https://nvidia.com) working on Morpheus
 - Former Staff Software Engineer at [Voltron Data](https://voltrondata.com)
 - Former Principal HPC Applications Engineer at [NextSilicon](https://nextsilicon.com)
 - Former Assistant Professor of Computer Science at [Millersville University](https://www.millersville.edu)
